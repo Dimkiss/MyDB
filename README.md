@@ -1,3 +1,3 @@
 # MyDB
-![Logic Model](logicmodel.drawio.png)
+![Conceptual Model](conceptual_model.drawio.png)
 
